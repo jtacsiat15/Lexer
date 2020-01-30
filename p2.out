@@ -38,7 +38,7 @@ DOUBLE_VAL '314.175' 35:1
 INT_TYPE 'int' 38:1
 STRING_TYPE 'string' 38:5
 BOOL_TYPE 'bool' 38:12
-ID 'double' 38:17
+DOUBLE_TYPE 'double' 38:17
 CHAR_TYPE 'char' 38:24
 NIL 'nil' 38:29
 TYPE 'type' 38:33
