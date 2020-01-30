@@ -1,5 +1,4 @@
 #this is a first test comment
 #this is a second test comment
 #this is third comment 
-#attempt at for loop
 var int x := 5
